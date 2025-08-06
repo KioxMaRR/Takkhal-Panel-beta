@@ -1,0 +1,168 @@
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Takkhal Panel.exe.config
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Takkhal Panel.exe
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Takkhal Panel.pdb
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Antlr3.Runtime.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Autofac.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Autofac.Integration.WebApi.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\AutoMapper.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\DelegateDecompiler.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\DelegateDecompiler.EntityFramework.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\EntityFramework.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\EPPlus.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\FluentValidation.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.Core.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.EntityModel.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.Linq.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.Validation.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\iRely.Common.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\itextsharp.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\itextsharp.xmlworker.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\MailBee.NET.45.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Mono.Reflection.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Newtonsoft.Json.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\RestSharp.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.IO.Compression.FileSystem.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Shim.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Web.Http.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Twilio.Api.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Antlr3.Runtime.pdb
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Autofac.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Autofac.Integration.WebApi.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\AutoMapper.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\EntityFramework.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\EPPlus.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\FluentValidation.pdb
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\FluentValidation.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.Core.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.EntityModel.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.Linq.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.Validation.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\itextsharp.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\MailBee.NET.45.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Newtonsoft.Json.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Web.Http.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Twilio.Api.pdb
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Twilio.Api.xml
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\cs\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\da\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\de\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\es\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\fa\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\fi\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\fr\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\it\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\ko\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\mk\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\nl\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\pl\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\pt\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\ru\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\sv\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\tr\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\bin\Release\zh-CN\FluentValidation.resources.dll
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal Panel.csproj.AssemblyReference.cache
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.bagshop.resources
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Form1.resources
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Form2.resources
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Form3.resources
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Form4.resources
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Form5.resources
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Form6.resources
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.formloadingSHOP.resources
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.lobySHOP.resources
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.LOGIN.resources
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Properties.Resources.resources
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal Panel.csproj.GenerateResource.cache
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal Panel.csproj.CoreCompileInputs.cache
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal .90D1DF8D.Up2Date
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal Panel.exe
+C:\Users\Parham\Desktop\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal Panel.pdb
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Takkhal Panel.exe.config
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Takkhal Panel.exe
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Takkhal Panel.pdb
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Antlr3.Runtime.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Autofac.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Autofac.Integration.WebApi.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\AutoMapper.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\DelegateDecompiler.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\DelegateDecompiler.EntityFramework.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\EntityFramework.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\EPPlus.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\FluentValidation.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.Core.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.EntityModel.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.Linq.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.Validation.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\iRely.Common.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\itextsharp.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\itextsharp.xmlworker.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\MailBee.NET.45.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Mono.Reflection.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Newtonsoft.Json.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\RestSharp.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.IO.Compression.FileSystem.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Net.Http.Formatting.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Shim.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Web.Http.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Web.Http.WebHost.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Twilio.Api.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Antlr3.Runtime.pdb
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Autofac.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Autofac.Integration.WebApi.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\AutoMapper.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\EntityFramework.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\EPPlus.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\FluentValidation.pdb
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\FluentValidation.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.Core.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.EntityModel.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.Linq.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\IdeaBlade.Validation.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\itextsharp.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\MailBee.NET.45.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Newtonsoft.Json.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Net.Http.Formatting.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Web.Http.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\System.Web.Http.WebHost.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Twilio.Api.pdb
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\Twilio.Api.xml
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\cs\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\da\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\de\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\es\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\fa\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\fi\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\fr\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\it\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\ko\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\mk\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\nl\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\pl\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\pt\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\ru\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\sv\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\tr\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\bin\Release\zh-CN\FluentValidation.resources.dll
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal Panel.csproj.AssemblyReference.cache
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.bagshop.resources
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Form1.resources
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Form2.resources
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Form4.resources
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Form5.resources
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Form6.resources
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal_Panel.Properties.Resources.resources
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal Panel.csproj.GenerateResource.cache
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal Panel.csproj.CoreCompileInputs.cache
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal .90D1DF8D.Up2Date
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal Panel.exe
+C:\Users\Parham\Downloads\Takkhal Panel - Copy\Takkhal Panel - Copy\Takkhal Panel\obj\Release\Takkhal Panel.pdb
